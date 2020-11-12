@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     font-family: 微軟正黑體;
+    box-sizing: border-box;
 }
 
 #box {
@@ -13,12 +14,18 @@
 }
 
 #logo {
-    padding: 20px 300px;
+    padding: 20px 380px;
 }
 
 #logo img {
     width: 500px;
     height: 500px;
+}
+
+#product {
+    background-color: black;
+    display: grid;
+    grid-gap: none;
 }
 
 #card {
