@@ -43,6 +43,12 @@
 #card .card-title {
   text-align: center;
   letter-spacing: 10px;
+  padding-bottom: 5px;
+}
+
+#card .card-text {
+  text-align: center;
+  letter-spacing: 4px;
 }
 
 hr {
