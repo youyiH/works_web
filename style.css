@@ -70,4 +70,13 @@ hr {
     width: 100%;
   }
 }
+
+footer {
+  text-align: center;
+  background-color: black;
+  color: whitesmoke;
+  font-size: 12px;
+  padding-top: 30px;
+  padding-bottom: 60px;
+}
 /*# sourceMappingURL=style.css.map */
